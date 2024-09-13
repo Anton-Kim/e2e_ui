@@ -25,5 +25,5 @@ pip install -r requirements.txt
 ```
 Запустить скрипт любым удобным способом:
 ```
-python test_api.py
+python test_e2e.py
 ```
