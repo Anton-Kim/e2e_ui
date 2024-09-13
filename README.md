@@ -8,6 +8,10 @@
 ```
 git clone https://github.com/Anton-Kim/e2e_ui.git
 ```
+Перейти в папку с репозиторием:
+```
+cd e2e_ui
+```
 Cоздать виртуальное окружение:
 ```
 python -m venv venv
@@ -16,7 +20,7 @@ python -m venv venv
 ```
 source venv/scripts/activate
 ```
-Установить зависимости из файла requirements.txt:
+Обновить PIP и установить зависимости из файла requirements.txt:
 ```
 python -m pip install --upgrade pip
 ```
